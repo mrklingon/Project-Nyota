@@ -24,6 +24,7 @@ paleblue = (0,0,1)
 white = (20,20,20)
 purple = (20,0,30)
 
+pixels = neopixel.NeoPixel(board.NEOPIXEL, 4, auto_write=True)
 colors = [pink,gold,blue,orange,green,red,paleblue,white,purple]
 REPL=True
 def docolor(color): #show a color  briefly
@@ -51,18 +52,23 @@ def compthink(): #blink out all the colors when computer "thinking"
     for clr in colors:
         blinknum(1,clr)
 
+if REPL == False:
+    stoplight = [red,gold,green]
+    for i in range(3):
+        blinknum(1+i,stoplight[i])
+        
+
 nlangs = file_len("langs")
-print ("number of languages: "+str(nlangs))
+prt (("number of languages: "+str(nlangs)),REPL)
 lnum = 0
 langs = []
 for i in range(nlangs):
     lname = wisdom(i,"langs")
     lname = lname.strip("\n")
-    print (lname)
+    prt (lname,REPL)
     langs.append(lname)
 lang = langs[0]
 #set up pixels
-pixels = neopixel.NeoPixel(board.NEOPIXEL, 4, auto_write=True)
 
 prt("Current lang: "+lang,REPL)
 
