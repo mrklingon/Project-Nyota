@@ -56,7 +56,7 @@ if REPL == False:
     stoplight = [red,gold,green]
     for i in range(3):
         blinknum(1+i,stoplight[i])
-
+        
 
 nlangs = file_len("langs")
 prt (("number of languages: "+str(nlangs)),REPL)
@@ -87,19 +87,24 @@ quiz = 2
 
 def createQuiz(lang):
     qdata = []
-    for i in range(5):
-        qdata.append(getInfo(lang))
+    qs = 0
+    while qs < 5:
+        d = getInfo(lang)
+        if d not in qdata:
+            qdata.append(d)
+            qs = qs + 1
     return qdata
-
+     
 
 def doquiz(quiz):
+    oops = ["wrong: ","oops: ","incorrect: "]
+    wow = ["yes!","correct!","good job"]
     pixels.fill(blank)
     q = []
     while len(q) < 4:
         n = random.randrange(5)
         if not n in q:
             q.append(n)
-
     p = 0
     for quest in q:
         ans = random.randrange(2)
@@ -125,11 +130,15 @@ def doquiz(quiz):
                 guess = 2
         if ans+1 == guess:
             pixels[p] = green
+            prt(random.choice(wow),REPL)
         else:
             pixels[p] = red
+            prt(random.choice(oops)+quiz[quest][1],REPL)
         p = p + 1
     time.sleep(3)
-
+    pixels.fill(blank)
+    prt("touch #2 for another quiz, or #1 to change language.",REPL)
+    
 state = choose
 while True:
     Val = 0
@@ -151,4 +160,4 @@ while True:
         state = quiz
         newquiz = createQuiz(langs[lnum])
         doquiz(newquiz)
-        state = choose
+        state = choose    
