@@ -1,0 +1,459 @@
+
+Copyright Prof. K.V. Zvelebil + Dr. M.J. Zvelebil
+
+
+------------------------------------------------------------------------------
+
+CHANPTER 1
+
+Section 1:	PHONEMIC INVENTORY of VULCAN
+
+
+Premiminary remark: 1) This phonemic inventory represents modern Vulcan.
+	 	    2) The English equivalents of the pronunciation of
+		       the phonemes are only very approximative.
+
+
+VOWELS:    i          u          i:          u:
+             e      o               e:     o:
+short            ^                      ^:           long
+                 a                      a: 
+
+There are many vowel sequences which may be described as 'diphtongs';
+ai (transcribed in broad Eng. transcription usually by -y- as in the
+    Vulcan word "t'hyla" [t'haila]. (p.s. there shloud be accents on the
+    ai - can't do that on this computer. Will have to send the post
+    August version via snail on PC disks).
+ei, oi, au,eu,ou, etc.
+
+Nasalized vowels: e~, o~, a~
+
+i - as in Eng. pit
+u - as in Eng. put
+e -    "       set
+o -    "       not
+^ -    "       but in fast speech; almost as final vowel in "teacher".
+a - as in French patte
+i: - as in Eng. mean
+u: - as in Eng. prune
+e: - as in French prenez (emphatic)
+o: - as in Eng. fault
+^: -     "      sir ; lengthened pronunciation.
+
+
+CONSONANTS:
+
+	p b f v w~ w m
+        t d th dh    n
+	c z sh zh
+	k g x h      ng
+	ks q
+	j r l w~l rh
+
+p - as in Eng. put
+b -     "      but
+f -     "      folk
+v -     "      veal
+w~-     "      no Eng. equivalent; voicless w (voiceless bilabial fricative)
+w -     "      white
+m -     "      man
+t -     "      top
+d -     "      door
+th -    "      t with aspiration (i.e. t with h-release; not like Eng. the)
+dh -    "      d  "     "            " d   "   "         "    "    "   
+n -     "      not
+c -     "     [ts] as in tse-tse fly
+z -     "      zero
+sh -    "      shoot
+zh -    "      measure, but even more strongly voiced and with slight h-release
+ch -    "      church
+dzh -         [d]+[zh] pronounced as one voiced sound.
+k - as in Eng. clock
+g -    "       go
+x - as in Scot. loch, ach; or German Bach (J.S.Bach)
+h - as in Eng. hut
+ng -     "     hung
+ks -     "     lax
+q  -     "     quote, but still more "velar" and emphatic.
+j -      "     yolk, yes.
+r - as in Italien bravo, or rather in Spanish Carrera, very strongly 
+	        articulated (voiced vbrant).
+l - as in Eng. logic ( that famous word again)
+w~l -           voicless bilabial fricative + lateral as one sound
+rh -            voiced retroflex vibrant, somewhat like American or
+		Irish 'r'.
+n~ - as in Span. man~ana, Fr. mignon
+' -             glottal catch; this serves also as syllable-boundary. Thus
+		e.g. the word t'hyla "friend etc" is pronounced so that
+		there is a strong onset [t] followed by offset overshort
+		pause with glottal catch ['], with main dynamic accent
+		on the first vowel of the diphthong, hence [t+'haila]/
+
+
+Consonent clusters are not avoided; on the contrary, clusters of two
+consonants are frequent kroy (stop), Katra, plak (blood), t'kahr (teacher),
+T'Pring, etc.
+Attention should be paid to the fact that consonant ( and vowel) sequences
+with ' are NOT to be intepreted as consonant clusters (vowel diphthongs):
+t'hyla, t'kahr, Kahs'wan, ka'athyra. (Pronounced [Kat' athaira] with very
+brief pause between the two vowels a, and  with stresses distributed like `'
+i.e. secondary stress on [Ka] and primary stress on [tha].
+
+			----------------
+
+Section 2: Minimal contrastive pairs for phonemics will be provided at
+	   a later date.
+
+------------------------------------------------------------------------------ 
+
+CHAPTER 2 	WORD-CLASSES (Part of speech system)
+
+There are in Vulcan (V.) isolatable units which can be classified as
+either free forms or bound forms. We can distinguish among six word-classes.
+
+1a:	Action-words, e.g. Kroy (stop), Imroy (walk), Ran (kill), 
+	Spara (eat), Tichoy (live), Matoy (die).
+
+1b:	State-words, e.g. Kya [kaia] (exist), Kyani (non-exist); e.g. with
+	interrog. particle - Qa kya qa kyani - (interrog. exist, interrog.
+	non-exist) or loosely translated "To be or not to be".
+	others: Mata (be dead), Tich (be alive) etc.
+
+2a:	Sentient-entity words, e.g. t'hyla (Friend/lover etc), Sehlat (
+	Vulcan "teddy-bear"), Le'matya (Omnivorous Vulcan predator), Horta
+	( sentient silicon-based living thing).
+
+2b: 	Non-Sentient-entity words, e.g. Kreyla (Vulcan biscuits), Ka'athyra
+	(Stringed musical instrument) etc.
+
+This division does not correspond to carbon- vs. non-carbon based dichotomy.
+ 
+3:	Deictic words; there are five degrees of deixis:
+	1. this here (visible), e.g. 	 i-plak (this blood)
+	2. this near (not visible) e.g.	 e-plak (this blood)
+	3. that these (visible) e.g. 	 a-plak (that blood)
+	4. that these (not visible) e.g. u-plak (that blood)
+	5. that (distantial) e.g. 	 o-plak (that blood)
+
+Under Deictic words, we include in this description what is generally
+described as the system of personal pronouns. This system distinguishes
+between the categories of inclusive (we-speakers + you-listeners) and
+exclusive (we-speakers - you-listeners) in 1st person plural. It also
+distinguishes between five degrees of Deixis in the 3rd person. And it
+also has a special paradigm for honorific ( suffix -kan (elder/more honorific)
+and -kam (to younger (affectionate) honorific. e.g. when Spock speaks with
+Savik he addresses her as Savikam). 
+
+SINGULAR:
+
+1. 	th' I				th'kan(m) I-hon.	
+2. 	s'  you				s'kan(m)  you-hon.
+3.1.	iw' he (visible)		iw'kan(m) he-hon.
+3.2.	ew' he (not visible)		ew'kan(m) 
+3.3.	aw' he (visible: see above)	aw'kan(m)
+3.4.	uw' he (not visib. see above)	uw'kan(m)
+3.5. 	ow' he (distantial)		ow'kan(m)
+3.2.1	iwl' she (visible)		iwl'kan(m)
+	.
+	.
+	.
+3.2.5  owl' she (distantial)		owl'kan(m)
+3.3.1  in'  it (visible)
+3.3.2  en'  it (not visib. see above)   "it" can have honorific
+       .				 form when applied to 'sexless'
+       .				 sentient phenomena
+3.3.5  on'
+
+PLURAL
+
+1. the's' we (inclusive)		the's'kan(m) we hon.
+   the'   we (exclusive)		the'kan(m)
+2. se'    you				se'kan(m)
+3.1  iwe' they (m.vis.)			iwe'kan(m)
+     .
+     .
+	
+3.2. iwle' they(f.vis.)			iwle'kan(m)
+       ,
+       .
+3.3. ine'  they (n.vis.)		ine'kan(m)
+      .
+     etc
+
+e.g. plaks'ran (leukocupricytosis) lit.  "blood you kill"
+
+
+4: QUALIFIERS
+
+4.a. Qualifiers of entity-words, e.g. Krup (blue), Sbah (red),
+     e.g. "Spock'at krupat'oram u-plak" (Spock{gen. poss} green that-invisible
+     -blood), or (That green blood of Mr. Spock) and "Kirk'at sbah i-plaplak"
+     (This red [precious] blood of Kirk)*. Other qualifiers are e.g. near
+     ditant, large, small etc.
+
+4.b. Qualifiers of action/state words. e.g. Brax (fast) as in e.g.
+     " Brax imroy" (walk fast), or, "Brax imimroykah" (walk very fast!!)**.
+
+* cf. explication of colours: Literally; Krupat'oram< (blue)+at'or (0.7+0.3)
+      + ram (Yellow)=blueish green (Colours will be dealt with later, numbers
+      too).
+
+** See below for intensive reduplication.
+
+5: NUMBER WORDS.
+
+Vulcan has pentagonal system. Also there are many words expressions dealing
+with calculative vocabulary of the Vulcans and only the most basic is
+given below.
+
+1=ri'		6=ti'
+2=ra'		7=ta'
+3=ro'		8=to'
+4=re'		9=te'
+5=ru'	       10=tu'
+
+0=i'
+
+Vulcan has also specific words for fractions from 0.1 to 0.9 ;
+
+0.1 = ir, 0.2 = ar, 0.3 = or, 0.4 = er, 0.5 = ur, 
+0.6 = it, 0.7 = at, 0.8 = ot, 0.9 = et.
+
+e.g. 2.156 = ra'irurit
+    10.461 = tu'eritir (said at great speed).
+
+On the pentagonal system is based the system applying to entity-words
+expressive specially of quantities from 1 to 5; thus we have singular,
+dual, trial, quatral and quintal. In Archaic Vulcan there are traces
+of these systems in the verb, expressed by incorporation of numeral
+forms. e.g. (you-2 stop-emphesis-command): in modern Vulcan;
+"s'ra' krokroykah"  
+in ancient Vulcan; " s'ra' krokroyRAkah"  or e.g. (you-3-humans walk-fast)
+in mod. Vulcan; "s'ro' qomiro' brax imroykah" {ancient; imroyRAkah).
+"qomiru" = five humans, BUT ti'qomie = six humans.
+
+
+6: PARTICLES.
+
+Particles are free (emphasis, interrogation-words etc) or bound forms used
+prefixed, infixed or suffixed with free forms as auxiliaries: "qa" interog.
+prefix e.g. "qaram" = interrog + kill;  "nirsh" =no, not, "a:" =yes.
+
+7: CONJUNCTIONS ETC.
+
+ong = and e.g. Spockong Kirkong (Spock and Kirk)
+azh = or  e.g. "Spockazh Kirkazh" (Spock or Kirk)
+niazh = neg. or e.g. " Spockniazh Kirkniazh" (neither Spock nor Kirk)
+ni-+-a not A but B e.g. niSpock Kirka (not Spock but Kirk)
+uks = but 
+etc.
+
+-------------------------------------------------------------------------------
+
+CHAPTER 3 	INTENSIVE REDUPLICATION
+
+A characteristic feature of Vulcan language is intensive reduplication 
+which is employed with action words, entity-words as well as qualifiers:
+
+3.1. With action/state words, e.g. "Krokroykah" (Stop definitely at once!)
+
+3.2 With entity words e.g. "th'at t'hyleat i-plaplak" (This {precious} 
+    blood of my friends)
+    "the'at t'hyleat a-plakhi krokroykah" (Stop {intensive} that {visible}
+     blood of our {exclusive} friends!).
+
+3.3 With qualifiers, e.g. "Kirk'at sb'sbah plakhi kroykah" (Stop the {very}
+    red blood of Kirk!).
+
+3.4. Grades of qualifiers:
+	Grade 2: infixation of repeated stem-vowel,
+	Grade 3: further reduplication of final syllable.
+
+Examples:  "atsk" (big) > "atsak" (very big) > "atsakak" (immensely big)
+           "itsk" (small) > "itsik" (very small) > "itsikik" (infinitely small)
+
+
+-------------------------------------------------------------------------------
+
+CHAPTER 4:  POSSESSIVITY
+
+Expressed by possessive suffix "'at" with entity-words and deictic words;
+e.g. "qomia'at" (of humans) "Spock'at (Spock's)
+
+th'at - my (mine)
+s'at - yours
+iw'at - his (male, visible, prox.)
+iwl'at - hers (female, visible prox)
+the's'at - our (inclusive)
+the'at - our (exclusive)  e.g. "the;at katra" - our katra (spoken by a 
+			  Vulcan towards non-Vulcan) versus "the'a'at
+			  Enterprise" - our Enterprise (Spoken by Kirk to
+			  Spock aboard the ship). cf. also "the'at orkike"
+			  - our ancestors.
+
+-----------------------------------------------------------------------------
+
+CHAPTER 5: SYNTACTIC RELATIONSHIPS OF ENTITY-WORDS.
+
+These are expressed by suffixation like in agglutinative languages.
+
+			Paradigm
+
+Singular		  Dual			Plural
+t'hyla - friends	  t'hylara - 2 friends 	t'hyle ( more than 5 friends)
+			  (analogicaly trial, 
+			  quatral, quintal)
+t'hyla'at "of the friend"  t'hylara'at		t'hyle'at
+t'hyla'ha "to the friend"  t'hylara'ha		t'hyle'ha
+t'hyla'hi [direct object]  t'hylara'hi		t'hyle'hi
+t'hyla'he "in the friend"  t'hylara'he		t'hyle'he
+	   (location)
+t'hyla'ti "with friend"    t'hylara'ti		t'hyle'ti
+          (instrument, association, etc.)
+t'hyla'a: [allocative]     t'hylara'a:		thyle'e:
+
+To this paradigm there are no formal exceptions.
+
+Examples: t'hyla'at sharien - 'sword of the friends'
+          t'hyla'ha shroyat'ha - ' in order to listen (i.e. verbal noun + ha)
+                                   to the friend'
+	  i-qomi'hi rankah - 'Kill this human!' (not often used by a Vulcan)
+	  qomi'he sbah plak - ' red blood in the human'
+	  Sharien'ti rankah - ' kill with the sword'
+	  S'ti ht'laktra    - 'I grieve with you (you with I grieve)
+
+Further syntatic relationships (such as 'inside in', 'ouside of', 'from'
+'by', 'for the sake of' etc) are expressed with further infixation or
+suffixation of certain particles and form of action-words.
+
+
+-------------------------------------------------------------------------------
+
+CHAPTER 6: ACTION-STATE WORDS.
+
+6.1. There is no abstract "verb" (state-word) 'to be'. "Being" always
+     refers to a concrete state/situation/quality/quantity, i.e. '
+     being so-and-so' e.g. 'to be alone', 'to be sick', to be red',
+     'to be tall', to be alive', to be dead' etc.
+
+    There is no copula "is" either. Equotional sentences are expressed by 
+    simple juxtaposition in a certain syntactic order: X Y , where X=
+    old information, Y = new information.
+
+    Thus 'Spock is tall' is literally 'Spock tall' and 'Spock is commander'
+    is 'Spock (X) - commander (Y).
+
+6.2 In contrast, there is a state-word 'to exist' in opposition to 
+    'to non-exist'.
+     Hence, 'Spock was sick' > 'Spock sicked + ended being sick'
+            'Spock was commander' > 'Spock-commander + precise temporal'
+
+6.3. In addition, Vulcan has a state-word which cannot be translated
+     only interpreted as meaning, approx., "neither exist, nor non-exist"
+     or, in certain situational context, "being beyond" i.e. being beyond
+     categories of time-space, beyond space-time continuum. This refers to
+     "regions" whether actual or mental (e.g. in meditation) which are 
+     beyond 'our' space-time coordinates.
+
+6.4  Action/State words do have a category which can roughly be designated
+     as aspectral or "Aktionsart".
+
+     1. Timeless action/state (still being in the state of preliminary
+  	discussions). Probably an action/state which has neither beginning
+	nor end, and still is. e.g. th'kroy - I stop [?]
+
+     2. Continuous present; Action/state which exists at the present time
+	without determination of its begining or end. 
+	Morpheme - infix MU.
+	e.g. tixoy (live); in Cont. Pres. tiMUxoy, e.g. s'tiMUxoy - 'you 
+	are living'
+
+     3. Action/State to be contintued; e.g. 'I am eating ( and have not 
+	finished eating but once shall finish eating).' 
+	Morpheme - infix CU [tsu]
+	e.g. spara (eat); th'spaCUra - 'I am eating' 
+
+     4. Action/State to be terminated; e.g. ' I (finish) eating fast'
+	Morpheme -infix KSE
+	e.g. th'spaKSEra - 'I (finish) eating',
+	     brax th'spaKSEra - 'I'll be finished eating fast/soon'
+
+    5.  Action in past still going on; e.g. ' I stopped to talk to my friend'
+	i.e. 'I stopped {and am still standing and talkinf}'
+	Morpheme -infix ZO:
+	e.g. Kroy (stop); kroyZO: - 'to have stopped (and still not moving)
+	cf. th'at t'hylaha prala'at'ha th'kroyZO: - literally 'my friend [
+	dative] speaking [dative] I stopped'*
+
+* Dative of verb-noun = "in order to" i.e. I stopped in order to talk to my
+  friend.
+
+    6.	Action in past finished (terminated);
+	Morpheme -infix PE 
+	e.g. th'spaPEra - ' I have eaten'
+
+    7.	Intentional Future;, 
+	Morpheme -infix DZHA
+	e.g. th'kroyDZHA - 'I will stop'
+
+    8.	Non-intentional Future;
+	Morphene -infix DZHU
+	e.g. th'ranDZHU - 'I might kill' (I may have to kill in the future).
+
+    9.	Negative verb
+	Morpheme -infix I
+	e.g. th'rIan - 'I don't kill'
+	     rIankah - 'Do not Kill!'
+
+6.5 Action/State words have the following basic forms.
+    1.	STEM; e.g. Kroy (stop) Ran (kill), Kapra (calculate)
+    2.	IMPERARIVE; .e.g. rankah (ran-kah) 'Kill!'
+	PROHIBITIVE e.g. rIankah (see above)
+    3.  PERMISIVE;  e.g. Kroma (Kroy-ma) 'may stop'
+    4.	VERB-NOUN; e.g. ranat (Ran-at) ' killing'
+
+
+7.0 Odds and ends (at the momment)
+
+hr'(noun)'te relates to a group of people (Vulcans ot others) e.g.
+mnah (proposal)	= hr'Mnah'te (proposal group) or kash (expunge) =
+hr'Kash'te (expunging group).
+
+----------------------------------------------------------------------
+EXAMPLES of utterances:
+
+1. Kirkhi rankah - 'Kill Kirk!' Not to be confused with:
+   Kirka: rankah - 'Kirk, Kill!'
+
+2. Spockhi smoniyatha th'kroyDZHA - 'I will stop in order to wait for Spock'
+   (Lit. Spock[object case] wait[verb-noun dative] I stop[intentional future])
+
+3. Spock kreylaong plomikon spaCUra - 'Spock eats Vulcan biscuits and 
+   Plomik-soup.
+
+To conclude this section consisting of 6 Chapters our Vulcan advisor
+(name and address has to be witheld for privacy reasons) has given us a
+Vulcan poem that MAY have been composed by Surak. Loosely translated
+it goes thus: (It has to do with Life and Death)
+
+" Suddenly light
+  Suddenly dark - 
+  I am a shooting star too."
+
+
+in Vulcan:
+
+" Kh'liorah brax		(light fast/suddenly)
+  Niorah brax - 		(dark fast/suddenly)
+  kahs'khiori th'thya."		(shooting star self)
+
+
+Observe the initial "rhyme" of the syllables -io- which carry the main
+stress, as well as the sequence -io- in the 3rd verse.
+
+-------------------------------------------------------------------------------
+
+(Updated Vocab./Dict will follow.)
+
+Let's try and make some sentences!!!!
+
