@@ -7,7 +7,7 @@ Inspired by Star Trek's Nyota Uhura, these programs provide a way to use a NeoTr
 
 There are two programs, *langtutor.py* and *langtest.py* - copy the one you want to use to **code.py**. The helper files *wise.py* and *prt.py* are required.
 
-The file "langs" is a list or the languages to review. Each line in "langs" should be the name of a file containing language information. In this archive the languages are: klingon, vulcan, mandoa, and Swahili (in honor of Uhura - "Nyota" means "star" in Swahili).
+The file "langs" is a list of the languages to review. Each line in "langs" should be the name of a file containing language information. In this archive the languages are: klingon, vulcan, mandoa, and Swahili (in honor of Uhura - "Nyota" means "star" in Swahili).
 
 Language files should be in the form:
 
