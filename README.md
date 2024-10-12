@@ -31,13 +31,14 @@ Current lang: klingon
 ```
 
 To toggle between languages, touch pad #1. When you reach the one you want to review (for the *langtutor.py* program) touch pad #2 and you'll see 5 random review pairs. For example from the Mando'a set:
-'''
+
+```
 You're right. : Gar serim.
 twenty : ad'eta
 seventy : tad'eta
 eighty : shehn'eta
 Good. : Jate.
-'''
+```
 
 With the *langtest.py* program, when you choose a language and touch pad#2, you'll get **four** tests where you're given a word or phrase, then a choice of two possible answers in the target language. Touch #1 or #2 to choose. A pixel will light green or red to indicate if you are right or wrong. (If wrong, the correct answer will be given). After four questions, you can touch #2 to get four more, or touch #1 to change languages.
 
