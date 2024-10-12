@@ -43,8 +43,7 @@ Good. : Jate.
 With the *langtest.py* program, when you choose a language and touch pad#2, you'll get **four** tests where you're given a word or phrase, then a choice of two possible answers in the target language. Touch #1 or #2 to choose. A pixel will light green or red to indicate if you are right or wrong. (If wrong, the correct answer will be given). After four questions, you can touch #2 to get four more, or touch #1 to change languages.
 
 For example:
-'''
-
+```
 Current lang: vulcan
 
 advise
@@ -72,7 +71,7 @@ wrong: c'thia
 correct!
 
 touch #2 for another quiz, or #1 to change language.
-'''
+```
 
 When running the programs, you can set the variable REPL to "True" or "False" to direct the output. If REPL=True, all output is sent to the REPL. If it is False, output is directed as if typed using the HID interface. There is a delay when that is the case, to give you time to switch to an open editor window to receive the output.
 
