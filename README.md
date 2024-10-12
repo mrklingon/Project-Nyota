@@ -75,6 +75,9 @@ touch #2 for another quiz, or #1 to change language.
 
 When running the programs, you can set the variable REPL to "True" or "False" to direct the output. If REPL=True, all output is sent to the REPL. If it is False, output is directed as if typed using the HID interface. There is a delay when that is the case, to give you time to switch to an open editor window to receive the output.
 
+**Note:**
+
+Copy all these files to the neotrinkey: langtutor.py, langtest.py, wise.py, prt.py, langs, klingon, vulcan, mandoa, swahili. Then copy langtutor.py or langtest.py to code.py to run.
 
 **Language sources:**
 
